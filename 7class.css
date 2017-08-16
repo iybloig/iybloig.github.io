@@ -1,0 +1,1584 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color:#0B61A4;
+}
+
+#book{
+	background-color:#fff;
+	width:1525px;
+	margin:0 0 0 10%;
+	height:1200px;
+}
+
+#header{
+	width: 100%;
+	background: #161616;
+	height: 70px;
+}
+
+#name p{
+	color:#fff;
+	font-size:23pt;
+	font-weight: bold;
+	font-family:arial;
+	padding: 17px 0 0 200px;
+}
+
+#name{
+	margin:0 0 0 0;
+}
+
+#background a{
+	font-size:17pt;
+	color:#fff;
+	font-weight: bold;
+	font-family:arial;
+	border: 3px solid #0772A1;
+	text-decoration: none;
+	padding: 7px 33px 7px 33px;
+}
+
+#background{
+	margin:-30px 0 0 1050px;
+}
+
+#id h1{
+	color:#373737;
+	font-size:30pt;
+	font-family:arial;
+	font-weight: bold;
+}
+
+#id{
+	margin:70px 0 0 640px;
+}
+
+#Tutorials{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: 80px 0 0 120px;
+}
+
+#namebook{
+	margin: 20px 0 0 0;
+}
+
+#namebook p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto{
+	margin: 20px 0 0 100px;
+}
+
+#nameautoo{
+	margin: 20px 0 0 100px;
+}
+
+#nameautoo a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameautooo{
+	margin: 20px 0 0 100px;
+}
+
+#nameautooo a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials1{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: -250px 0 0 550px;
+	transition: 0.5s;
+}
+
+#namebook1{
+	margin: 20px 0 0 0;
+}
+
+#namebook1 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto11 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto11{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto111{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto111 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto1111{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto1111 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials2{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: -250px 0 0 980px;
+}
+
+#namebook2{
+	margin: 20px 0 0 0;
+}
+
+#namebook2 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto22 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto22{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto222{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto222 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto2222{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto2222 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials3{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: 50px 0 0 120px;
+}
+
+#namebook3{
+	margin: 20px 0 0 0;
+}
+
+#namebook3 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto33 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto33{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto333{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto333 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto3333{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto3333 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials5{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: -250px 0 0 980px;
+}
+
+#namebook5{
+	margin: 20px 0 0 0;
+}
+
+#namebook5 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto55 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto55{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto555{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto555 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto5555{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto5555 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials4{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: -250px 0 0 550px;
+}
+
+#namebook4{
+	margin: 20px 0 0 0;
+}
+
+#namebook4 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto44 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto44{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto444{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto444 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto4444{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto4444 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#td{
+	margin:0 0 0 35px;
+}
+
+#idid{
+	margin:0 0 0 715px;
+}
+
+#idid h1{
+	color:#373737;
+	font-family:arial;
+	font-weight: bold;
+}
+
+#nameauto a:hover{
+	background: #FF9E00;
+}
+
+#nameautoo a:hover{
+	background: #FF9E00;
+}
+
+#nameautooo a:hover{
+	background: #FF9E00;
+}
+
+#nameauto1111 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto11 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto111 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto2222 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto22 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto222 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto3333 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto33 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto333 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto4444 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto44 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto444 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto5555 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto55 a:hover{
+	background: #FF9E00;
+}
+
+#nameauto555 a:hover{
+	background: #FF9E00;
+}
+
+#Tutorials6{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: 50px 0 0 120px;
+	transition: 0.5s;
+}
+
+#namebook6{
+	margin: 20px 0 0 0;
+}
+
+#namebook6 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto66 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto66{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto666{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto666 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto6666{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto6666 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials7{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: -250px 0 0 550px;
+	transition: 0.5s;
+}
+
+#namebook7{
+	margin: 20px 0 0 0;
+}
+
+#namebook7 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto77 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto77{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto777{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto777 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto7777{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto7777 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#Tutorials8{
+	width: 350px;
+	height: 230px;
+	border:10px solid #0772A1;
+	margin: -250px 0 0 980px;
+	transition: 0.5s;
+}
+
+#namebook8{
+	margin: 20px 0 0 0;
+}
+
+#namebook8 p{
+	background-color:#00C322;
+	color:#fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size:17pt;
+	padding:6px 0 6px 0;
+	text-align: center;
+}
+
+#nameauto88 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto88{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto888{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto888 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+#nameauto8888{
+	margin: 20px 0 0 100px;
+}
+
+#nameauto8888 a{
+	color:#fff;
+	font-size:16pt;
+	font-family: arial;
+	background: #01939A;
+	text-decoration: none;
+	padding: 6px 50px 6px 50px;
+	transition: 0.5s;
+}
+
+@media (min-width:0) and (max-width:320px) {
+	#book{
+		width:320px;
+		margin: 0;
+		height:2800px;
+		border-radius:0;
+	}
+
+	*{
+		max-width: 320px;
+	}
+
+	#Tutorials{
+		margin: 120px 0 0 -5px;
+		width: 240px;
+	}
+
+	#Tutorials a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials1 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials2 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials3 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials4 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials5 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials6 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials7 a{
+		margin:0 0 0 -60px;
+	}
+
+	#Tutorials8 a{
+		margin:0 0 0 -60px;
+	}	
+	
+
+	#Tutorials1{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+	}
+
+	#Tutorials2{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+	}
+
+	#Tutorials3{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+		height: 255px;
+	}
+
+	#Tutorials4{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+	}
+
+	#Tutorials5{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+	}
+
+
+	#Tutorials6{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+		height: 255px;
+	}
+
+	#Tutorials7{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+	}
+
+	#Tutorials8{
+		margin: 20px 0 0 -5px;
+		width: 240px;
+	}
+
+	#id{
+		margin: 90px 0 0 0;
+	}
+
+	#id h1{
+		font-size:24pt;
+		text-align:center;
+	}
+
+	#idid{
+		margin:0;
+	}
+
+	#idid h1{
+		font-size:21pt;
+		text-align:center;
+	}
+
+	#header{
+		width: 320px;
+	}
+
+	#name p{
+		padding: 23.5px 0 0 20px;
+		font-size:16pt;
+	}
+
+	#background{
+		margin:-22px 0 0 160px;
+	}
+
+	#background a{
+		font-size:10pt;
+	}
+
+	body{
+		background-color:none;
+	}
+}
+
+@media(min-width:321px) and (max-width:384px){
+	#book{
+		width: 384px;
+		margin: 0;
+		border-radius:0;
+		height: 2800px;
+	}
+
+	#Tutorials{
+		margin: 0;
+		width: 310px;
+		margin:  120px 0 0 -9px;
+	}
+
+	#Tutorials1{	
+		width: 310px;
+		margin: 20px 0 0 -9px;
+	}
+
+	#Tutorials2{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials3{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials4{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials5{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials6{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials7{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials8{
+		margin: 20px 0 0 -9px;
+		width: 310px;
+	}
+
+	#Tutorials a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials1 a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials2 a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials3 a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials4 a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials5 a{
+		margin: 0 0 0 -18px;
+	}
+
+
+	#Tutorials6 a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials7 a{
+		margin: 0 0 0 -18px;
+	}
+
+	#Tutorials8 a{
+		margin: 0 ;
+	}
+
+	##Tutorials8 p{
+		text-align: center:;
+	}
+
+	#kek{
+		margin: 0 0 0 35px;
+	}
+
+	#name p{
+		padding:0;
+		font-size:15pt;
+		padding: 25.5px 0 0 40px;
+	}
+
+	#background{
+		margin:-20px 0 0 205px;
+	}
+
+	#background a{
+		font-size:12pt;
+	}
+
+	#id{
+		margin: 100px 0 0 0;
+	}
+
+	#idid{
+		margin:0;
+	}
+
+	#id h1{
+		font-size:25pt;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:19pt;
+		text-align: center;
+	}
+}
+
+@media(min-width:385px) and (max-width:414px){
+	#book{
+		width: 414px;
+		margin:0;
+		border-radius:0;
+		height:2800px;
+	}
+
+	#Tutorials{
+		margin: 90px 0 0 -15px;
+	}
+
+	#Tutorials1{
+		margin: 20px 0 0 -15px;;
+	}
+
+	#Tutorials2{
+		margin: 20px 0 0 -15px;
+	}
+
+	#Tutorials3{
+		margin: 20px 0 0 -15px;
+	}
+
+	#Tutorials4{
+		margin: 20px 0 0 -15px;
+	}
+
+	#Tutorials5{
+		margin: 20px 0 0 -15px;
+	}
+
+	#Tutorials6{
+		margin: 20px 0 0 -15px;
+	}
+
+	#Tutorials7{
+		margin: 20px 0 0 -15px;
+	}
+
+	#Tutorials8{
+		margin: 20px 0 0 -15px;
+	}
+
+	#name p{
+		padding: 25px 0 0 40px;
+		font-size:15pt;
+	}
+
+	#background{
+		margin:-21px 0 0 200px;
+	}
+
+	#background a{
+		font-size:13pt;
+	}
+
+	#id{
+		margin:80px 0 0 0;
+		text-align:center;
+	}
+
+	#idid{
+		margin: 0;
+		text-align:center;
+	}
+
+	#id h1{
+		font-size:25pt;
+	}
+
+	#idid h1{
+		font-size:20pt;
+	}
+
+}
+
+@media(min-width:415px) and (max-width:480px){
+	#book{
+		margin:0;
+		width: 480px;
+		border-radius: 0;
+		height: 2800px;
+	}
+
+	#Tutorials{
+		margin:110px 0 0 18px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 18px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 18px;
+	}
+
+	#name p{
+		padding: 24px 0 0 50px;
+		font-size:17pt;
+	}
+
+	#id{
+		margin:100px 0 0 0;
+		text-align: center;
+	}
+
+	#idid{
+		margin:0;
+		text-align: center;
+	}
+
+	#background{
+		margin:-25.5px 0 0 250px;
+	}
+
+	#background a{
+		font-size:15pt;
+	}
+
+}
+
+@media (min-width: 481px) and (max-width: 533px){
+	#book{
+		margin: 0;
+		width: 533px;
+		height: 2800px;
+		border-radius: 0;
+	}
+
+	#Tutorials{
+		margin:90px 0 0 50px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 50px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 50px;
+	}
+
+	#background{
+		margin:-28px 0 0 290px;
+	}
+
+	#background a{
+		font-size:14pt;
+	}
+
+	#name p{
+		padding: 20px 0 0 50px;
+	}
+
+	#id{
+		margin: 110px 0 0 0;
+		text-align: center;
+	}
+
+	#id h1{
+		font-size:28pt;
+	}
+
+	#idid{
+		margin: 0;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:22pt;
+	}
+}
+
+@media (min-width: 482px) and (max-width: 568px){
+	#book{
+		margin: 0;
+		width: 568px;
+		height: 2800px;
+		border-radius:0;
+	}
+
+	#Tutorials{
+		margin:90px 0 0 70px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 70px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 70px;
+	}
+
+	#background{
+		margin:-29px 0 0 340px;
+	}
+
+	#background a{
+		font-size:14pt;
+	}
+
+	#name p{
+		padding: 20px 0 0 50px;
+	}
+
+	#id{
+		margin: 110px 0 0 0;
+		text-align: center;
+	}
+
+	#id h1{
+		font-size:28pt;
+	}
+
+	#idid{
+		margin: 0;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:22pt;
+	}
+}
+
+@media (min-width: 569px) and (max-width: 598px){
+		#book{
+		margin: 0;
+		width: 598px;
+		height: 2800px;
+		border-radius:0;
+	}
+
+	#Tutorials{
+		margin:90px 0 0 90px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 90px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 90px;
+	}
+
+	#background{
+		margin:-28px 0 0 380px;
+	}
+
+	#background a{
+		font-size:14pt;
+	}
+
+	#name p{
+		padding: 20px 0 0 70px;
+	}
+
+	#id{
+		margin: 110px 0 0 0;
+		text-align: center;
+	}
+
+	#id h1{
+		font-size:28pt;
+	}
+
+	#idid{
+		margin: 0;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:22pt;
+	}
+}
+
+@media (min-width: 599px) and (max-width: 603px){
+		#book{
+		margin: 0;
+		width: 640px;
+		height: 2800px;
+		border-radius:0;
+	}
+
+	#Tutorials{
+		margin:90px 0 0 90px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 91px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 91px;
+	}
+
+	#background{
+		margin:-28px 0 0 380px;
+	}
+
+	#background a{
+		font-size:14pt;
+	}
+
+	#name p{
+		padding: 20px 0 0 70px;
+	}
+
+	#id{
+		margin: 110px 0 0 0;
+		text-align: center;
+	}
+
+	#id h1{
+		font-size:28pt;
+	}
+
+	#idid{
+		margin: 0;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:22pt;
+	}
+}
+
+@media (min-width: 604px) and (max-width: 640px){
+			#book{
+		margin: 0;
+		width: 640px;
+		height: 2800px;
+		border-radius:0;
+	}
+
+	#Tutorials{
+		margin:90px 0 0 107px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 107px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 107px;
+	}
+
+	#background{
+		margin:-28px 0 0 380px;
+	}
+
+	#background a{
+		font-size:14pt;
+	}
+
+	#name p{
+		padding: 20px 0 0 70px;
+	}
+
+	#id{
+		margin: 110px 0 0 0;
+		text-align: center;
+	}
+
+	#id h1{
+		font-size:28pt;
+	}
+
+	#idid{
+		margin: 0;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:22pt;
+	}
+
+
+}
+
+@media (min-width: 641px) and (max-width: 690px){
+			#book{
+		margin: 0;
+		width: 690px;
+		height: 2800px;
+		border-radius:0;
+	}
+
+	#Tutorials{
+		margin:90px 0 0 129px;
+	}
+
+	#Tutorials1{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials2{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials3{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials4{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials5{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials6{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials7{
+		margin:20px 0 0 129px;
+	}
+
+	#Tutorials8{
+		margin:20px 0 0 129px;
+	}
+
+	#background{
+		margin:-28px 0 0 380px;
+	}
+
+	#background a{
+		font-size:14pt;
+	}
+
+	#name p{
+		padding: 20px 0 0 70px;
+	}
+
+	#id{
+		margin: 110px 0 0 0;
+		text-align: center;
+	}
+
+	#id h1{
+		font-size:28pt;
+	}
+
+	#idid{
+		margin: 0;
+		text-align: center;
+	}
+
+	#idid h1{
+		font-size:22pt;
+	}
+
+
+}
